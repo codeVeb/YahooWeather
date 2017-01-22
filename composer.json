@@ -1,5 +1,5 @@
 {
-	"name": "veb/YahooWeather",
+	"name": "veb/yahoo-weather",
 	"description": "Yahoo Weather Api Wrapper",
 	"type": "library",
 	"license": "MIT",
